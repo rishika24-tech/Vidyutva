@@ -1,6 +1,6 @@
 
 ##  Link to the Website 
-https://priceless-carson-ea1fc6.netlify.app/
+https://rishika24-tech.github.io/Vidyutva/
 
 
 <p align="center">
